@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="es">
 <body>
-  <h1>Conversor de Divisas con API Gutendex en Java</h1>
+  <h1>Conversor de Divisas con API en Java</h1>
 
-  <p>Este proyecto implementa un conversor de divisas en Java, utilizando las tecnologías más avanzadas para ofrecer una solución robusta y eficiente. La aplicación permite a los usuarios convertir montos de una divisa a otra, aprovechando la API Gutendex para obtener tipos de cambio actualizados y precisos. Además, utiliza PostgreSQL como base de datos para almacenar datos de manera persistente y JPA (Java Persistence API) para gestionar la capa de persistencia de manera eficiente y segura.</p>
+  <p>Este proyecto implementa un conversor de divisas en Java, utilizando las tecnologías más avanzadas para ofrecer una solución robusta y eficiente. La aplicación permite a los usuarios convertir montos de una divisa a otra, aprovechando la API para obtener tipos de cambio actualizados y precisos. Además, utiliza PostgreSQL como base de datos para almacenar datos de manera persistente y JPA (Java Persistence API) para gestionar la capa de persistencia de manera eficiente y segura.</p>
 
   <h2>Características</h2>
   <ul>
     <li>Conversión entre múltiples divisas soportadas.</li>
     <li>Interfaz de consola para una interacción intuitiva con el usuario.</li>
     <li>Almacenamiento seguro de datos utilizando PostgreSQL y JPA.</li>
-    <li>Integración con la API Gutendex para obtener tipos de cambio en tiempo real.</li>
+    <li>Integración con la API para obtener tipos de cambio en tiempo real.</li>
   </ul>
 
   <h2>Tecnologías Utilizadas</h2>
   <ul>
     <li><strong>Java 22</strong>: Última versión del lenguaje Java, proporcionando las últimas características y mejoras de rendimiento.</li>
     <li><strong>Maven</strong>: Herramienta de gestión de dependencias para facilitar la construcción del proyecto y la gestión de bibliotecas.</li>
-    <li><strong>API Gutendex</strong>: API externa utilizada para obtener tipos de cambio actualizados.</li>
+    <li><strong>API</strong>: API externa utilizada para obtener tipos de cambio actualizados.</li>
     <li><strong>PostgreSQL</strong>: Sistema de gestión de bases de datos relacional robusto y confiable.</li>
     <li><strong>JPA (Java Persistence API)</strong>: Especificación estándar de Java para mapear objetos Java a tablas de bases de datos relacionales.</li>
   </ul>
